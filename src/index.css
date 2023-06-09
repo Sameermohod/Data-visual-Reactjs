@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main{
+@apply   bg-black   h-screen   p-5   pt-8  relative  duration-300
+}
